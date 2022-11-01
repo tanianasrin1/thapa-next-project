@@ -12,6 +12,13 @@
   align-items: center;
 }
 
+/* navbar */
+.text-pera{
+  color: #0070f3;
+}
+
+
+/* footer */
 .footer {
   display: flex;
   flex: 1;
@@ -30,7 +37,7 @@
 
 .title a {
   color: #0070f3;
-  text-decoration: none;
+  text-decoration: none; 
 }
 
 .title a:hover,

@@ -1,9 +1,7 @@
-import React from 'react';
-
 const blog = () => {
     return (
         <>
-           <h1>This is blog page</h1> 
+           <h1>This is a blog page index</h1> 
         </>
     );
 };
